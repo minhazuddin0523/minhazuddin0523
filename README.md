@@ -29,6 +29,7 @@ MY Skills:📚📚
 
 - 🌱 I’m currently learning Responsive web-design 
 - 📫 How to reach me: minhaz.al.din@gmail.com
+- 💬 Ask me about ...
 
 <hr/>
 
