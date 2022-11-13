@@ -11,6 +11,7 @@ MY Skills:📚📚
 - 🌐 &nbsp;
   ![HTML5](https://user-images.githubusercontent.com/64801732/200296783-de1b348f-0151-4441-b5b9-3aa33e9604d9.png)
   ![CSS](https://user-images.githubusercontent.com/64801732/200296915-81cf6a01-3bd7-4810-bbb5-c607618ba533.png)
+  ![JavaScript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript&logoColor=007396)
   ![BootStarp](https://user-images.githubusercontent.com/64801732/200297022-3176cfff-a3d9-4eb9-bcef-47c76371ff43.png)
 - ⚙️ &nbsp;
   ![GitHub](https://user-images.githubusercontent.com/64801732/200297052-9bd98dde-5f8c-478b-89e6-32b25ede41be.png)
