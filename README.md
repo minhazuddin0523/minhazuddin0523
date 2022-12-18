@@ -42,6 +42,7 @@ MY Skills:📚📚
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=minhazuddin0523)
   
+  
 <hr/>
   
   <h2> 🤝🏻 &nbsp;Join with Me 📱 💻 </h2>
@@ -49,11 +50,16 @@ MY Skills:📚📚
  🟠[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/minhazuddin0523)
   
  🟢[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/minhazuddin0523)
+  
  🔵[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/minhazuddin0523/)
+  
   🟣[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/minhazuddin0523)
+  
  ⚪[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/minhazuddin0523/)
+  
 🟡[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/minhazuddin0523)
 
+  
 <a href="https://web.facebook.com/minhazuddin0523/"><img alt="facebook" src="https://img.shields.io/badge/Facebook-MD Minhaz Uddin-blue?style=flat-square&logo=facebook"></a>
 <a href="https://www.linkedin.com/in/minhazuddin0523/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-MD Minhaz Uddin-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/in/minhazuddin0523/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-MD Minhaz Uddin-blue?style=flat-square&logo=instagram"></a>
