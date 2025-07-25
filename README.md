@@ -38,9 +38,6 @@ MY Skills:📚📚
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=minhazuddin0523&theme=buefy&show_icons=true" />
 
 <hr/>
-
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=minhazuddin0523)
   
   
 <hr/>
@@ -64,4 +61,3 @@ MY Skills:📚📚
 <a href="https://www.instagram.com/in/minhazuddin0523/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-MD Minhaz Uddin-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:minhaz.al.din@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-minhaz.al.din@gmail.com-blue?style=flat-square&logo=gmail"></a>
   
-![Profile views](https://gpvc.arturio.dev/minhaz7890)  
