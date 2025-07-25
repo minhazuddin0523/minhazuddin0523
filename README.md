@@ -57,13 +57,11 @@ MY Skills:📚📚
   
  ⚪[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/minhazuddin0523/)
   
-🟡[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/minhazuddin0523)
 
   
 <a href="https://web.facebook.com/minhazuddin0523/"><img alt="facebook" src="https://img.shields.io/badge/Facebook-MD Minhaz Uddin-blue?style=flat-square&logo=facebook"></a>
 <a href="https://www.linkedin.com/in/minhazuddin0523/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-MD Minhaz Uddin-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/in/minhazuddin0523/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-MD Minhaz Uddin-blue?style=flat-square&logo=instagram"></a>
-<a href="https://twitter.com/minhazuddin0523"><img alt="twitter" src="https://img.shields.io/badge/Twitter-MD Minhaz Uddin-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:minhaz.al.din@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-minhaz.al.din@gmail.com-blue?style=flat-square&logo=gmail"></a>
   
 ![Profile views](https://gpvc.arturio.dev/minhaz7890)  
