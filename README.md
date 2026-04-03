@@ -31,14 +31,7 @@ MY Skills:📚📚
 - 🌱 I’m currently learning Responsive web-design 
 - 📫 How to reach me: minhaz.al.din@gmail.com
 - 💬 Ask me about ...
-
-<hr/>
-
-<a href="https://github.com/minhazuddin0523">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=minhazuddin0523&theme=buefy&show_icons=true" />
-
-<hr/>
-  
+ 
   
 <hr/>
   
