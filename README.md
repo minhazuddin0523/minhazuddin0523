@@ -49,7 +49,10 @@ MY Skills:📚📚
   🟣[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/minhazuddin0523)
   
  ⚪[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/minhazuddin0523/)
-  
+ 
+  Location:- Motijheel 48/1 Yousuf Mansion C/A Dhaka 1000, 
+
+  https://maps.app.goo.gl/kLUPpGvrDHZhaEwT7
 
   
 <a href="https://web.facebook.com/minhazuddin0523/"><img alt="facebook" src="https://img.shields.io/badge/Facebook-MD Minhaz Uddin-blue?style=flat-square&logo=facebook"></a>
