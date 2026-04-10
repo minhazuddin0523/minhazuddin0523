@@ -3,7 +3,10 @@
 
 <hr/>
 
-# Hi there 👋, I'm MD Minhaz Uddin 🇧🇩
+# Hi there 👋, I'm MD Minhaz Uddin
+Assalamu’alaikum warahmatullahi wabarakatuh
+
+السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
 
 <hr/>
 
